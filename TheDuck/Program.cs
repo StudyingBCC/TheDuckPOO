@@ -26,6 +26,8 @@ namespace TheDuck
             borracha.Falar();
             borracha.executaComer();
             borracha.executaVoar();
+            borracha.setVoarBehavor(new VoarFoguete());
+            borracha.executaVoar(); 
             Console.WriteLine("\n");
 
             Console.WriteLine("Olá eu sou o " + animado.Nome);
