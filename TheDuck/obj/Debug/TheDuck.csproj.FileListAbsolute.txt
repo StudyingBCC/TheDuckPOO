@@ -1,0 +1,7 @@
+C:\Users\fabiana.sdkamamoto\source\repos\TheDuck\TheDuck\bin\Debug\TheDuck.exe.config
+C:\Users\fabiana.sdkamamoto\source\repos\TheDuck\TheDuck\bin\Debug\TheDuck.exe
+C:\Users\fabiana.sdkamamoto\source\repos\TheDuck\TheDuck\bin\Debug\TheDuck.pdb
+C:\Users\fabiana.sdkamamoto\source\repos\TheDuck\TheDuck\obj\Debug\TheDuck.csproj.AssemblyReference.cache
+C:\Users\fabiana.sdkamamoto\source\repos\TheDuck\TheDuck\obj\Debug\TheDuck.csproj.CoreCompileInputs.cache
+C:\Users\fabiana.sdkamamoto\source\repos\TheDuck\TheDuck\obj\Debug\TheDuck.exe
+C:\Users\fabiana.sdkamamoto\source\repos\TheDuck\TheDuck\obj\Debug\TheDuck.pdb
